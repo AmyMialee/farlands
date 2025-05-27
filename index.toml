@@ -712,6 +712,70 @@ file = "options.txt"
 hash = "9891d046e2e022cbda3cae1507f8932338788310d0ccc09433128e648b0895e3"
 
 [[files]]
+file = "resourcepacks/3D Tankards.zip"
+hash = "6a1101646e5be19bc501d35e7d51a778cfb67ef89d9f9b6e3c74e91b2cfdb02d"
+
+[[files]]
+file = "resourcepacks/Farcr's Better Dirt V1.2.zip"
+hash = "1187a0999bf92062c07f76847ae5c54514f31d3cca235b1c25fdd56335d8e6d1"
+
+[[files]]
+file = "resourcepacks/Farcr's Re-Crafted V2.19.zip"
+hash = "2e103a25ac9ee0d2c1d3214608fd7daef4ccbab02461b3a4f69c29f4ddd97848"
+
+[[files]]
+file = "resourcepacks/Farcr's Re-Create 1.6.zip"
+hash = "983b18a774874914b1875cd6538abd8fe5dd0c33496101625a8e40d2e3606115"
+
+[[files]]
+file = "resourcepacks/Fire_Rekindled.zip"
+hash = "de85603c575762bf0e1c04a17534a8f42a6fb3a5d4018d29ad495759cb7fac1c"
+
+[[files]]
+file = "resourcepacks/HumanEraVillagersIllagers[2.989].zip"
+hash = "8083a12d30d41de88802bd6f6f2f7497e9c8b67259c2cab62e444ff0cad63bd2"
+
+[[files]]
+file = "resourcepacks/Minecwag.zip"
+hash = "a066025bf2d32ccc93e296c73c869304523bc5f0ee13e997e314df0131d52d28"
+
+[[files]]
+file = "resourcepacks/Muskets 3D Wild West для Ewewkek's.zip"
+hash = "698644e3dee91a1624ee78c8981fd592f2ec9dbdcd2098a54d0064e06fc695c9"
+
+[[files]]
+file = "resourcepacks/Re-Simple-Storage.zip"
+hash = "36eff606d39fd0d8622cd6b7fafc821260d3ec64a10893791e5e692495b72d3a"
+
+[[files]]
+file = "resourcepacks/Seedy Saplings.zip"
+hash = "893cd2512521f0899d486fb59bf4f0100b7221add61eeef53e07f207f526a001"
+
+[[files]]
+file = "resourcepacks/Seedy_Saplings_NML.zip"
+hash = "3e88d6403276dbce045c5d78da24d5dbe419fe808f998fec7a79349d1878235a"
+
+[[files]]
+file = "resourcepacks/Vibrant Fog 1.21.5_r1.0.zip"
+hash = "550486e279131fe8f3e3f3cdf37d6afbe87c02a9fbc42b6266fcd8fe1cab17e0"
+
+[[files]]
+file = "resourcepacks/amy n trans n flags.zip"
+hash = "512c48dd5dacc5d2b02371d3e4b69ef77c84614b2dd5737c3d2a77e2037e742d"
+
+[[files]]
+file = "resourcepacks/bruh.zip"
+hash = "14aa38c3cf5f5b1d8887eb176f610f0fe0812ea350dba27d0dccd1b2f614b507"
+
+[[files]]
+file = "resourcepacks/coastercompat.zip"
+hash = "3c9a22e0d9800de9388d6ba412220aa7285cce7885655650ad49105f3a7d10b8"
+
+[[files]]
+file = "resourcepacks/create-stomified.zip"
+hash = "efd8339e00841ecea4a2db168dbf635a97ad523eacafffd301e3af6dafc6e8f4"
+
+[[files]]
 file = "resourcepacks/enchantment-descriptions-compat.pw.toml"
 hash = "bc0ce38c70bb6f4d685f665123e12b56ff47129185965a75d4c6b8964f4a0222"
 metafile = true
