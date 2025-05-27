@@ -1,42 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/cat-activity.xml"
-hash = "0b177f41bebf5463381bed7870157d8f98eaf121fa0b65cef819a438c48c5c84"
-
-[[files]]
-file = ".idea/farlands.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/inspectionProfiles/Project_Default.xml"
-hash = "6a4f5a9e23266ba646fc1f5f89112f8c86c6a4fa52406f34ec7b1e81c3a4c57a"
-
-[[files]]
-file = ".idea/libraries/mods.xml"
-hash = "95293b2acd631d6fffa22714dcb0f3ff90815dde16ac91c1b60fe26c086e8bbe"
-
-[[files]]
-file = ".idea/libraries/resourcepacks.xml"
-hash = "bddf72ea92c341070cd5d917d0f8a0ee82fe73e1c696ef55e9864aee70f411b0"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "28c5c874119c6a276c63d908f93df78cbb1a7e32b2686bc978b1ce5096d96973"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "44b5ed03b95e75cb5bfe48ab94f812997ab007d20181ba4fc1a9a6603de06ea0"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "32292b784319497514e49ea67bcbb111a20d5ade705d613abd5264360bb81dbf"
-
-[[files]]
 file = "config/enchantmentdisabler-common.toml"
 hash = "4bd9f75fc35bcb822bdfea39acb17ecae1d5fdb91f325ea9a998bf6fdef14562"
 
