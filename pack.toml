@@ -1,0 +1,13 @@
+name = "Farlands"
+author = "SillviaTV, AmyMialee"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5d6e2093074ff299d7f895d7ea3f5977a0fef62c0ae479edb1e6abfde7642097"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.172"

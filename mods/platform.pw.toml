@@ -1,0 +1,13 @@
+name = "Platform"
+filename = "platform-neoforge-1.21.1-1.2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i6fiqm5y/versions/cJ52FVmK/platform-neoforge-1.21.1-1.2.9.jar"
+hash-format = "sha512"
+hash = "4909326cf106d162de07af57fb02f68d53f68cfef89b26fcd16af5ebf6fef611a6c17da2cd71d690576701a0de44c926321dd394fe3647b5a26b6f1db1003149"
+
+[update]
+[update.modrinth]
+mod-id = "i6fiqm5y"
+version = "cJ52FVmK"

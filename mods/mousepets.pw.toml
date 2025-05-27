@@ -1,0 +1,13 @@
+name = "MousePets"
+filename = "mouse_pets-0.1.0a-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6f56Vrc3/versions/bw5juKki/mouse_pets-0.1.0a-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "9801a026cd9e904fc0df4cc943b5357b5a503bbef1e0e3eb956627da8758a652c61064f820d53c534340f31e9944240c0a800e8ba190fec8647015041f59f23e"
+
+[update]
+[update.modrinth]
+mod-id = "6f56Vrc3"
+version = "bw5juKki"

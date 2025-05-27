@@ -1,0 +1,13 @@
+name = "Choup's Drakvyrn Mod"
+filename = "Choups_Drakvyrn_Mod_(v2.5.0)_for_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hi5FQaJy/versions/pxgA1EIz/Choups_Drakvyrn_Mod_%28v2.5.0%29_for_1.21.1.jar"
+hash-format = "sha512"
+hash = "b7e077677e9c1001fb64d580d47fa200a2b443bf36b86a59b8cf71cb19804fa228ad9413d38b03024490d0776e6d23fac653472f26f7806ccc62844c6f202c50"
+
+[update]
+[update.modrinth]
+mod-id = "hi5FQaJy"
+version = "pxgA1EIz"
