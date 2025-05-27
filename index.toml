@@ -638,6 +638,21 @@ hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
+metafile = true
+
+[[files]]
+file = "mods/trade-enchantment-display.pw.toml"
+hash = "dbdb4ffa68899dbc5723b144c051b471ea367fd0e6f182c32b7d5ee70e003c61"
+metafile = true
+
+[[files]]
+file = "mods/trading+.pw.toml"
+hash = "0a45d520b9ebc3d6a565ecc1f02d399cd59bdd559f264b3bfccc9762c8c674aa"
+metafile = true
+
+[[files]]
 file = "mods/tweakerge.pw.toml"
 hash = "de950f9e6fa15bffcd71719bd37c5cc37d56af41ba83c52f1e0ad5c555a8b43c"
 metafile = true
