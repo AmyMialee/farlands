@@ -673,11 +673,6 @@ hash = "980e216641c555792628f37b5bee6770069b8fa9c6b859ab5a988a6714782df7"
 metafile = true
 
 [[files]]
-file = "mods/vanity.pw.toml"
-hash = "678ffbe44007654fa572af716c884f604a1368f23959f09740c8cf3701373186"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "fcc4e00f37493f6292af7fbef7be6ea27e1a0cb4185d010e17db67e4ac61da15"
 metafile = true
