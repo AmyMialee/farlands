@@ -5,6 +5,10 @@ file = "config/enchantmentdisabler-common.toml"
 hash = "7b7eab02c5ab253ce59e92c3163fd2edccd2fc493a355ff2a48a7febf83641ea"
 
 [[files]]
+file = "mods/ApothicAttributes-1.21.1-2.8.1.jar"
+hash = "8e7d2c26939bb25214e824b0e2865a82a20c0d8bd033da271df25712bcaa189c"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "e5473d05c6e3d08c992cecbaa3cb66ed154655c0bfdbb90860b3e4f54a4623ec"
 metafile = true
@@ -53,6 +57,10 @@ metafile = true
 file = "mods/atlas-api.pw.toml"
 hash = "e5a82f81b10d1b886c5e37f5196cd23a02e2951c78b771f67886409a3e4ab746"
 metafile = true
+
+[[files]]
+file = "mods/atlas_api-1.21.1-1.1.0.jar"
+hash = "9a283538891bf886de3c9c539e79e1f25568606c2c13fbe646a43aa628ff42d2"
 
 [[files]]
 file = "mods/balm.pw.toml"
