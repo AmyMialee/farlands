@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "ce5d0cd5986126c23dc35c89a6d2124751071693c034afc3799b4f633466997f"
+hash = "08d5b42c63b13a05a5ad962fb2782126b6a1dbbd76ef383608da7e39009f8b06"
 metafile = true
 
 [[files]]
@@ -61,6 +61,16 @@ metafile = true
 [[files]]
 file = "mods/atlas_api-1.21.1-1.1.0.jar"
 hash = "9a283538891bf886de3c9c539e79e1f25568606c2c13fbe646a43aa628ff42d2"
+
+[[files]]
+file = "mods/backpacked-world-of-color.pw.toml"
+hash = "f1a675dca5bfcb0e809ebc0c2b69dc68169fbcabc94b134849bdc5265cd3b99b"
+metafile = true
+
+[[files]]
+file = "mods/backpacked.pw.toml"
+hash = "bc28e8fdd92fb65006f08d7d1f93920d3a32c0f2b0c52b2367cba66088cc2e96"
+metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -303,6 +313,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "11bc4d2951f2bbb0dd17c77534f05c909987e19203398558713bc515f441d5a2"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "c06ecab0073a079fe16122b69744bb71d05ab3e19207fa1c1764ab0fd91a0b62"
 metafile = true
@@ -499,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
+hash = "ee35392cd74464af3b668fac4356b6e0415be59c21c09f257fb5c83d1b01a0fe"
 metafile = true
 
 [[files]]
