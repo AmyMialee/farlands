@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/cat-activity.xml"
+hash = "0b177f41bebf5463381bed7870157d8f98eaf121fa0b65cef819a438c48c5c84"
+
+[[files]]
+file = ".idea/farlands.iml"
+hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
+
+[[files]]
+file = ".idea/inspectionProfiles/Project_Default.xml"
+hash = "6a4f5a9e23266ba646fc1f5f89112f8c86c6a4fa52406f34ec7b1e81c3a4c57a"
+
+[[files]]
+file = ".idea/libraries/mods.xml"
+hash = "95293b2acd631d6fffa22714dcb0f3ff90815dde16ac91c1b60fe26c086e8bbe"
+
+[[files]]
+file = ".idea/libraries/resourcepacks.xml"
+hash = "bddf72ea92c341070cd5d917d0f8a0ee82fe73e1c696ef55e9864aee70f411b0"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "28c5c874119c6a276c63d908f93df78cbb1a7e32b2686bc978b1ce5096d96973"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "44b5ed03b95e75cb5bfe48ab94f812997ab007d20181ba4fc1a9a6603de06ea0"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "32292b784319497514e49ea67bcbb111a20d5ade705d613abd5264360bb81dbf"
+
+[[files]]
 file = "config/enchantmentdisabler-common.toml"
 hash = "4bd9f75fc35bcb822bdfea39acb17ecae1d5fdb91f325ea9a998bf6fdef14562"
 
@@ -20,12 +56,12 @@ metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "6b1de417a7fa934847bf002b75acd00d48637bb3484ea468799354b612658775"
+hash = "cb96cee37aeb38e012b1b85b10f0aa888b3875c84103e6981b13df389cbd8074"
 metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
 metafile = true
 
 [[files]]
@@ -154,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "debe8db79b3c28277116c603ded923c919a091280d6ace4ad7a287b4117493e9"
+hash = "1fe3ead406a17d71edd237176ff188cbbacba85f5f11e01365613ae426c54d57"
 metafile = true
 
 [[files]]
@@ -194,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "49a1d1100c21525a63ce2f956588c2f8c79949481a2e009c77457a5b7e53df24"
+hash = "3109f3baa9f41cb02dc398df1c1a4cfa03e7345f44723b9e0cf8f5a7f31560c4"
 metafile = true
 
 [[files]]
@@ -254,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-disabler.pw.toml"
-hash = "70a5fd91a43e6ec21499fdf4d4e30b65e878b05c832b50ca543c39d151b3458c"
+hash = "72d1342b9486e481f1fa605c79ba82acc5204aa8ecf5be6ee2d2cce29dc154b0"
 metafile = true
 
 [[files]]
@@ -339,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-trading.pw.toml"
-hash = "e5a2b00a5a99de7ed4cf8184a60307afeecc4dce5ae0fb073cef29bef42e9826"
+hash = "a86282c9253cf6d1693bd3800361f28195438b99d42b0b8e9a6ee43d8a117006"
 metafile = true
 
 [[files]]
@@ -399,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
@@ -459,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
+hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
 metafile = true
 
 [[files]]
@@ -479,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]
@@ -559,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/responsiveshields.pw.toml"
-hash = "6085325b661e439e982a471eddc3a390918db9be3dcd198e6faeb33f6d9aaff0"
+hash = "159ebf21146d6624bb9de04466210ec0144d99225335f1e823325eaac2cae772"
 metafile = true
 
 [[files]]
@@ -589,12 +625,12 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "ef3251044a28b2a4124c4f1b7b7a740845afc25d9c94ecab5851bc70aa503c89"
+hash = "f9738a10bb027eaf600f533a6e5ba00d7d1bf5f277c5c0c7f765123d0d2c4ade"
 metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "7b916a1580bcd8c20d998cea330b4efb891879cef2e4b1352beded18c44655b9"
+hash = "2cfd9accc79569f73e62d835e76acd05df13787d922c8ff6bc78b6d6a2ed4fa0"
 metafile = true
 
 [[files]]
@@ -629,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/too-fast.pw.toml"
-hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+hash = "49fb27f04c4ec26614fd121a7a8f7764d59949d0b6a3c32a63fb57fd2b3c8ea9"
 metafile = true
 
 [[files]]
@@ -684,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-durability.pw.toml"
-hash = "72dc53e98c3902a682f43013656fde9323c98e5231e8b94413a5e7e56363d207"
+hash = "f51b0e315759aa87733d0ce08ec2fb6a7d66afcd25e9485080617ff587244e2d"
 metafile = true
 
 [[files]]
