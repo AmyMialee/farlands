@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/enchantmentdisabler-common.toml"
-hash = "7b7eab02c5ab253ce59e92c3163fd2edccd2fc493a355ff2a48a7febf83641ea"
-
-[[files]]
 file = "mods/ApothicAttributes-1.21.1-2.8.1.jar"
 hash = "8e7d2c26939bb25214e824b0e2865a82a20c0d8bd033da271df25712bcaa189c"
 

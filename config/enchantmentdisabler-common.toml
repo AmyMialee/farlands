@@ -1,4 +1,0 @@
-disablerEnabled = true
-disabledEnchantments = ["minecraft:mending", "minecraft:unbreaking"]
-modifyMaxLevels = false
-maxLevels = []
