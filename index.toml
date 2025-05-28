@@ -393,6 +393,11 @@ hash = "638709ccc805606ac9fa9bf2f135ae4dd79d299e5796dcac062d838cbdaf6642"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "965c18f0b3eb3d1a7fa4b08887a9c94b39d97cc45e473924b6c5792743785d72"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "817b1ab6014dc039d8bdd24a463f19ab6d341756f7d4274abcb111582620747e"
 metafile = true
